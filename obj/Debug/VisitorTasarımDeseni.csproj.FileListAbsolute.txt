@@ -1,0 +1,6 @@
+c:\users\ömür\documents\visual studio 2015\Projects\VisitorTasarımDeseni\VisitorTasarımDeseni\bin\Debug\VisitorTasarımDeseni.exe.config
+c:\users\ömür\documents\visual studio 2015\Projects\VisitorTasarımDeseni\VisitorTasarımDeseni\bin\Debug\VisitorTasarımDeseni.exe
+c:\users\ömür\documents\visual studio 2015\Projects\VisitorTasarımDeseni\VisitorTasarımDeseni\bin\Debug\VisitorTasarımDeseni.pdb
+c:\users\ömür\documents\visual studio 2015\Projects\VisitorTasarımDeseni\VisitorTasarımDeseni\obj\Debug\VisitorTasarımDeseni.csprojResolveAssemblyReference.cache
+c:\users\ömür\documents\visual studio 2015\Projects\VisitorTasarımDeseni\VisitorTasarımDeseni\obj\Debug\VisitorTasarımDeseni.exe
+c:\users\ömür\documents\visual studio 2015\Projects\VisitorTasarımDeseni\VisitorTasarımDeseni\obj\Debug\VisitorTasarımDeseni.pdb
